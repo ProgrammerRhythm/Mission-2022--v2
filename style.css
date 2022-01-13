@@ -1,0 +1,33 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgba(240, 248, 255, 0.76);
+}
+.banai{
+    border: 1px solid#ffa448;
+}
+.banai:hover{
+    background-color: #ffa448;
+}
+#person{
+    height: 550px;
+    padding: 95px 20px 30px 45px;
+}
+#h1{
+    margin: 90px 20px 10px 0px;
+    font-size: 50px;
+    border-left: 5px solid;
+    border-image: linear-gradient(180deg, lightsalmon,tomato);
+    border-image-slice: 1;
+    padding-left: 15px;
+}
+#p{
+    margin: 15px 5px 10px 0px;
+}
+.half{
+    padding: 75px 26px 50px 60px;
+}
