@@ -19,15 +19,57 @@ body{
 }
 #h1{
     margin: 90px 20px 10px 0px;
-    font-size: 50px;
+    font-size: 52px;
     border-left: 5px solid;
     border-image: linear-gradient(180deg, lightsalmon,tomato);
     border-image-slice: 1;
     padding-left: 15px;
+}
+#box{
+    margin-bottom: 80px;
 }
 #p{
     margin: 15px 5px 10px 0px;
 }
 .half{
     padding: 75px 26px 50px 60px;
+}
+#mission{
+    text-align: center;
+    margin: 40px 0px;
+    font-size: 45px;
+    color: rgb(0, 0, 19);
+    padding: 10px;
+}
+.car-1 img,.car-2 img,.car-3 img{
+    height: 150px;
+    width: 150px;
+    border-radius: 15px;
+
+}
+.car-1{
+    background-color: rgba(220, 222, 255, 0.733);
+    border-radius: 20px;
+    height: 310px;
+    border: none;
+}
+.car-2{
+    background-color: rgba(252, 217, 225, 0.767);
+    border-radius: 20px;
+    height: 310px;
+    border: none;
+}
+.car-3{
+    background-color: rgba(255, 248, 220, 0.733);
+    border-radius: 20px;
+    height: 310px;
+    border: none;
+}
+.card-title b{
+    font-family: 'Lato', sans-serif;
+    font-size: 23px;
+}
+.pera{
+    margin-top: 20px;
+    color: rgba(54, 54, 54, 0.829);
 }
