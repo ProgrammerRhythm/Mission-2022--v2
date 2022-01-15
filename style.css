@@ -13,6 +13,7 @@ body{
 .banai:hover{
     background-color: #ffa448;
 }
+
 #person{
     height: 550px;
     padding: 95px 20px 30px 45px;
@@ -26,7 +27,7 @@ body{
     padding-left: 15px;
 }
 #box{
-    margin-bottom: 80px;
+    margin-bottom: 100px;
 }
 #p{
     margin: 15px 5px 10px 0px;
@@ -40,6 +41,12 @@ body{
     font-size: 45px;
     color: rgb(0, 0, 19);
     padding: 10px;
+}
+#missions{
+    margin: 40px 0px 15px 0px;
+    font-size: 38px;
+    color: rgb(17, 16, 16);
+    /* padding: 10px; */
 }
 .car-1 img,.car-2 img,.car-3 img{
     height: 150px;
@@ -71,5 +78,54 @@ body{
 }
 .pera{
     margin-top: 20px;
-    color: rgba(54, 54, 54, 0.829);
+    color: rgba(75, 72, 72, 0.795);
+    
+}
+#develop{
+    margin-bottom: 50px;
+}
+#position{
+    position: absolute;
+    left: 12px;
+    height: 265px;
+    top: 1120px;
+    /* bottom: -708px; */
+}
+#pot {
+    position: relative;
+    height: 200px;
+    /* right: 18px; */
+    left: 274px;
+    top: -103px;
+}
+#acc{
+    margin-bottom: 120px;
+}
+.col-5{
+    padding: 10px 25px;
+
+}
+.col-7{
+    padding: 75px 15px;
+}
+.ok{
+    padding: 130px 15px;
+}
+#app{
+    margin-bottom: 150px;
+}
+
+footer{
+    background-color: rgb(0, 3, 20);
+    height: 200px;
+    padding-top: 40px;
+}
+.text{
+    text-align: center;
+    /* margin-top: 20px; */
+}
+.text h5{
+    margin-bottom: 15px;
+    font-family: 'Courgette', cursive;
+    font-size: 41px;
 }
